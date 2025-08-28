@@ -18,4 +18,4 @@ name = "Darkadin"
 
 #print(name.replace("a", "o"))
 
-print((name + " ") * 100)
+#print((name + " ") * 100)
