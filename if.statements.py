@@ -9,4 +9,4 @@ elif age >= 18:
 elif age <= 0:
   print("Bro doesnt even exist")
 else:
-  print("You are a child!")
+  print("You are a child! GET THE F**K OUT!!!")
