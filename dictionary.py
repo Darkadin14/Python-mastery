@@ -22,7 +22,8 @@ capital.update({"USA":"Sylhet"})
 
 capital.pop("USA")
 
-#capital.clear()
+#
+# capital.clear()
 
 for key, values in capital.items():
   print(key,"-", values)

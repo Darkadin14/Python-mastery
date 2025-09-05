@@ -1,4 +1,4 @@
-# set = collection which is UNORDERED, UNINDEXED. No dulicate values
+# set = collection which is UNORDERED, UNINDEXED. No duplicate values
 
 food = {"burger", "pizza", "pasta"}
 desserts = {"pastry", "ice cream", "milk shake", "pizza"}

@@ -8,5 +8,5 @@ print(student.index("Male"))
 
 for i in student:
   print(i)
-if "Bro" in student:
-  print("Bro is here!")
+if "Fardin" in student:
+  print("Fardin is here!")
